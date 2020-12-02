@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## 阿里云Python训练营学习笔记-Day1
 
-You can use the [editor on GitHub](https://github.com/Eric0451/PythonBasics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+训练营 [传送门](https://tianchi.aliyun.com/s/77b6f6a4bb79399b5fa536e511f8fcf5) 完全免费，每天发学习笔记打卡。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作为文科狗，第一次用git写东西，难免漏洞百出，贻笑大方^.^
 
-### Markdown
+### 我为什么学Python?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+作为有志投入语料库与语言教学的一枚老青椒，用自己搞的工具做数据采集和处理太有诱惑了，不过要痛苦地学习好久。。。
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题1
+## 标题2
+### 标题3
 
 - Bulleted
 - List
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 标题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eric0451/PythonBasics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+内容。
 
-### Support or Contact
+### 标题
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+内容。
