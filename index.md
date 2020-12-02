@@ -2,11 +2,19 @@
 
 训练营 [传送门](https://tianchi.aliyun.com/s/77b6f6a4bb79399b5fa536e511f8fcf5) 完全免费，每天发学习笔记打卡。
 
-作为文科狗，第一次用git写东西，难免漏洞百出，贻笑大方^.^
+作为文科狗，第一次用git写东西而且不会markdown语法，难免漏洞百出，贻笑大方^.^
+
+
+
+```markdown
+Syntax highlighted code block
 
 ### 我为什么学Python?
+作为有志投入语料库语言学的小白，用自己搞的工具做数据采集和处理太有诱惑了，不过要痛苦地学习好久。。。
+**黑体文字测试**   _斜体文字格式测试1_  'This is not coding area.代码格式测试'
+```
 
-作为有志投入语料库与语言教学的一枚老青椒，用自己搞的工具做数据采集和处理太有诱惑了，不过要痛苦地学习好久。。。
+
 
 ```markdown
 Syntax highlighted code block
